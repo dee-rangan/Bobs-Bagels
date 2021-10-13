@@ -16,8 +16,8 @@ console.log('Test for adding one item');
 */
 
 
-const Basket = require('./basket.js');
-const compare = require('./test-framework.js');
+const Basket = require('../src/basket.js');
+const compare = require('../test-framework.js');
 
 //TEST 1 check if can add
 //Setup
